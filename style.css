@@ -20,7 +20,7 @@ img {
 }
 p {
     background-color: #FC9D9A;
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 50px;
     font-size: 2em;
 }
